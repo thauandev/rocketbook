@@ -1,5 +1,5 @@
-Desafio 04. Introdução ao React
-Aplicação criada do zero utilizando Webpack, Babel, Webpack Dev Server e ReactJS.
+# Desafio 04. Introdução ao React
+Aplicação criada do zero utilizando **Webpack, Babel, Webpack Dev Server e ReactJS**.
 
 Nessa aplicação foi desenvolvida uma interface semelhante com a do Facebook utilizando React.
 
@@ -7,7 +7,7 @@ As informações contidas na interface são estáticas e não precisam refletir 
 
 
 
-Componentes
+## Componentes
 
 Header : Responsável por exibir a logo e o link para acessar o perfil;
 
