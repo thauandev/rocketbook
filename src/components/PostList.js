@@ -12,7 +12,7 @@ class PostList extends Component {
          avatar: 'https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png',
        },
        date:'04 Jun 2019',
-       content: 'Pessoal alguem conhece alguém para utilizar minhas APIS ?',
+       content: 'Pessoal alguém conhece alguém para utilizar minhas APIS ?',
        comments: [
          {
            id: 1,
